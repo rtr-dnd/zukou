@@ -33,6 +33,14 @@ _samples = {
     color_frag_glsl,
     texture_frag_glsl,
     default_vert_glsl,
+  ],
+  'can': [
+    'can.cc',
+    'cylinder.cc',
+    'jpeg-texture.cc',
+    color_frag_glsl,
+    texture_frag_glsl,
+    default_vert_glsl,
   ]
 }
 
